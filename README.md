@@ -1,4 +1,4 @@
-# Hi, I'm Ahmad Shiddiqi 👋
+# Hi, I'm Ahmad
 
 I'm a **Software & Data Engineer** based in Indonesia with 4+ years of experience building data-intensive systems across the full stack — from backend APIs to ETL pipelines to data warehouses.
 
